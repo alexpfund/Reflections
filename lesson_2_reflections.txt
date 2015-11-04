@@ -14,3 +14,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 When you are doing a major update, but need to continue fixing bugs in the current verion. This way you could work on both at the same time and keep the changes seperate until needed. Also, this prevents you from missing a bug fix that you may have implemented after starting the upgrade.
 
+How do the diagrams help you visualize the branch structure?
+
+By showing the structure visually instead of conceptually.
