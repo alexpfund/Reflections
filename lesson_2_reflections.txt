@@ -10,3 +10,7 @@ How can you use the staging area to make sure you have  one commit per logical c
 
 By only staging the files that include the logical change, and then you can add more commits to with their own explanations.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you are doing a major update, but need to continue fixing bugs in the current verion. This way you could work on both at the same time and keep the changes seperate until needed. Also, this prevents you from missing a bug fix that you may have implemented after starting the upgrade.
+
