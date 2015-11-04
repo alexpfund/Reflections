@@ -17,3 +17,12 @@ When you are doing a major update, but need to continue fixing bugs in the curre
 How do the diagrams help you visualize the branch structure?
 
 By showing the structure visually instead of conceptually.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+All of the changes are incorporated into the program. We diagram it the way we do to show that the two branches came back together, and everything is included in this new point.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+The pro is that it is alot easier if the system goes through and figures out all of the differences and combines them. When you have to do it manually, you can can choose which changes are correct.
+
